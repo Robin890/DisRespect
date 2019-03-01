@@ -1,6 +1,6 @@
 0,SansAnimation,Tired,,,,,,,
-0,SansHead,EyesClosed,,,,,,,
-0,SansText,Just burn in hell.,,,,,,,
+0,SansHead,Wink,,,,,,,
+0,SansText,Why?,,,,,,,
 0,CombatZoneResizeInstant,239,226,404,391,,,,
 0,Sound,Flash,,,,,,,
 0,BlackScreen,1,,,,,,,
@@ -44,9 +44,9 @@
 0.5,GasterBlaster,2,0,240,139,306,0,0.666,0.5
 0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
 0,SansAnimation,Tired,,,,,,,
-3,SansHead,Default,,,,,,,
-0,SansHead,Wink,,,,,,,
-0,SansText,Cheer up buddy.,,,,,,,
-0,SansTorso,Shrug,,,,,,,
-0,SansText,It'll be over soon.,,,,,,,
+3,SansHead,ClosedEyes,,,,,,,
+0,SansText,..would you kill.,,,,,,,
+0,SansTorso,BlueEye,,,,,,,
+0,SansText,Such an.,,,,,,,
+0,SansText,innocent person?!,,,,,,,
 0.05,EndAttack,,,,,,,,
