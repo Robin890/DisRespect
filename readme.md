@@ -12,18 +12,12 @@ ________________________________________________________________________________
 
 **Original: [Jcw87](https://github.com/Jcw87)**
 
-**Song Used: [SOLLICITUS I](https://soundcloud.com/ragher/swapped-realities-au-sollicitius-original)**
+**Song Used: [DRAGONFORCE](https://soundcloud.com/lucaspucas2/dragonforce)**
 
-**Song Creator: [Judge](https://soundcloud.com/ragher)**
+**Song Creator: [LucasPucas](https://soundcloud.com/lucaspucas3)**
 
-**Final Attack(s): [Mush 2 Blue](https://www.youtube.com/channel/UCMHwpcP2P4AbV1tDgz5N5XA)**
+**Final Attack(s): [MTcaptain Ji](https://www.youtube.com/channel/UCff52OB-bQvjdvqhturds6Q)**
 ________________________________________________________________________________
 
 # Updates
-**Increased HP to 99 to match with LV 20**
-
-**Switched Insane Bound Sprites to Sane Bound Sprites**
-
-**Switched ShrB Gaming's credit to Mush 2 Blue**
-
-**Switched Determination Soul to Hate Soul/Soulless Soul...?**
+**1.0: Released**
