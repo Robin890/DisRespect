@@ -127,9 +127,9 @@
 0,GasterBlaster,0.7,640,346,560,346,180,0,0
 0,BoneStab,3,36,0.4,0.2,,,,
 0.7,BlackScreen,1,,,,,,,
-0,SansRepeatEnd,,,,,,,,
+0,SansEndRepeat,,,,,,,,
+0,Sound,mus_zz_megalovania,0,,,,,,
 0.7,BlackScreen,0,,,,,,,
-0,SansAnimation,Idle,,,,,,,
 0,SansAnimation,Tired,,,,,,,
 3,SansHead,ClosedEyes,,,,,,,
 0,SansText,...would you kill...,,,,,,,
