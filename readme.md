@@ -22,3 +22,7 @@ ________________________________________________________________________________
 
 # Updates
 **1.0: Released**
+**1.5: Fixed Sprites**
+**2.0: Made GUI text Red**
+**2.5: Made some GUI text be what Chara would say**
+**3.0: Coming Soon**
