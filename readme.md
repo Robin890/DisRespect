@@ -29,4 +29,6 @@ ________________________________________________________________________________
 
 **2.5: Made some GUI text be what Chara would say**
 
+**2.8: Added Cheat Mode (https://kayos156.github.io/BoundRevenge/Cheats)
+
 **3.0: Coming Soon**
