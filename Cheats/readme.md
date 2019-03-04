@@ -1,5 +1,6 @@
 # Attention
-**This is a modified version of Jcw87's c2-sans-fight, except with harder attacks. The only changes were the attacks, some text, the "Infinite Loop Detected" function, and sprites, which means that you shouldn't be testing your own custom attacks here. Just go to https://kayos156.github.io/BoundFight to play!**
+**This is a W.I.P. mod of Jcw87's c2-sans-fight. The only changes were the attacks, some text, the "Infinite Loop Detected" function, sprites, and soul physics, which means that you shouldn't be testing your own custom attacks here.
+Just go to https://kayos156.github.io/BoundRevenge to play!**
 
 [**Wiki**](https://github.com/kayos156/BoundFight/wiki)
 ________________________________________________________________________________
@@ -12,18 +13,22 @@ ________________________________________________________________________________
 
 **Original: [Jcw87](https://github.com/Jcw87)**
 
-**Song Used: [SOLLICITUS I](https://soundcloud.com/ragher/swapped-realities-au-sollicitius-original)**
+**Song Used: [DRAGONFORCE](https://soundcloud.com/lucaspucas2/dragonforce)**
 
-**Song Creator: [Judge](https://soundcloud.com/ragher)**
+**Song Creator: [LucasPucas](https://soundcloud.com/lucaspucas3)**
 
-**Final Attack(s): [Mush 2 Blue](https://www.youtube.com/channel/UCMHwpcP2P4AbV1tDgz5N5XA)**
+**Final Attack(s): [MTcaptain Ji](https://www.youtube.com/channel/UCff52OB-bQvjdvqhturds6Q)**
 ________________________________________________________________________________
 
 # Updates
-**Increased HP to 99 to match with LV 20**
+**1.0: Released**
 
-**Switched Insane Bound Sprites to Sane Bound Sprites**
+**1.5: Fixed Sprites**
 
-**Switched ShrB Gaming's credit to Mush 2 Blue**
+**2.0: Made GUI text Red**
 
-**Switched Determination Soul to Hate Soul/Soulless Soul...?**
+**2.5: Made some GUI text be what Chara would say**
+
+**2.8: Added Cheat Mode (https://kayos156.github.io/BoundRevenge/Cheats)**
+
+**3.0: Coming Soon**
