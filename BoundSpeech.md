@@ -1,15 +1,15 @@
-Human...
+**Human...**
 
-I-I R-Respected you...
+**I-I R-Respected you...**
 
-But y-you...
+**But y-you...**
 
-You...
+**You...**
 
-YOU...!
+**YOU...!**
 
-YOU KILLED EVERYONE!
+**YOU KILLED EVERYONE!**
 
-You even killed S-Sans and P-Papy...
+**You even killed S-Sans and P-Papy...**
 
-You deserve no MERCY!
+**You deserve no MERCY!**
